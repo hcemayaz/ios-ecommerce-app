@@ -7,7 +7,7 @@ Spring Boot E-Commerce API için geliştirilmiş iOS mobil istemci uygulaması.
 - **UIKit** — Programmatic UI (Storyboard kullanılmadı)
 - **MVVM** — Model-View-ViewModel mimarisi, Delegate pattern ile
 - **Codable** — JSON parse ve serialize
-- **URLSession** — Native networking, üçüncü parti bağımlılık yok
+- **URLSession** — Native networking
 
 ## Proje Yapısı
 
